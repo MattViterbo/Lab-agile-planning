@@ -1,2 +1,1 @@
-# Lab-agile-planning
-trial of zenhub
+# Final Project Agile
